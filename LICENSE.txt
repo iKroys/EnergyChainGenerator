@@ -14,7 +14,7 @@ This software is licensed under the Creative Commons Attribution-NonCommercial-N
 See https://creativecommons.org/licenses/by-nc-nd/4.0/ for details.
 
 ## Attribution Requirements
-- Author: Ciril Studenović (iKroys)
+- Author: Ćiril Studenović (iKroys)
 - Original Repository: https://github.com/iKroys/EnergyChainGenerator
 - License: CC BY-NC-ND 4.0
 
