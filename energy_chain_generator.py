@@ -3,9 +3,19 @@ bl_info = {
     "blender": (4, 0, 0),
     "category": "Add Mesh",
     "description": "Generate an energy chain with a curve, armature, and linked objects",
-    "author": "Your Name",
+    "author": "Ćiril Studenović (iKroys)",
     "version": (1, 0),
+    "warning": "",
+    "wiki_url": "https://github.com/iKroys/EnergyChainGenerator",
+    "tracker_url": "https://github.com/iKroys/EnergyChainGenerator/issues",
+    "license": "CC BY-NC-ND 4.0",
 }
+
+# Energy Chain Generator Addon
+# Author: Ćiril Studenović (iKroys)
+# License: CC BY-NC-ND 4.0
+# Original Repository: https://github.com/iKroys/EnergyChainGenerator
+# Attribution: If you use or share this addon, please include the author's name and link to the original repository.
 
 import bpy
 import bmesh
