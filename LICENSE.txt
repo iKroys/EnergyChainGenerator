@@ -1,0 +1,14 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+Copyright (c) 2025 [Your Name]
+
+You are free to:
+- Use this software for personal, non-commercial purposes.
+
+Under the following terms:
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial**: You may not use the material for commercial purposes.
+- **NoDerivatives**: You may not distribute modified versions of the software.
+
+This software is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+See https://creativecommons.org/licenses/by-nc-nd/4.0/ for details.
