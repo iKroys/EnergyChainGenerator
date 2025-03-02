@@ -18,6 +18,8 @@ Energy Chain Generator is a Blender add-on that allows users to generate energy 
 2. Configure the curve properties, link count, and custom object.
 3. Click the "Generate Energy Chain" button to create the energy chain.
 
+https://youtube.com/shorts/rjNa1ThsnlI?si=9ffEPj1avzhQzMdW
+
 ## Attribution
 This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
